@@ -248,6 +248,7 @@ section {
     justify-content: space-between;
     align-items: flex-start;
     padding: 40px;
+    overflow: hidden;
 }
 
 .carousel-text {
