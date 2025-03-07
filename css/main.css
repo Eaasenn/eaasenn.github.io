@@ -292,14 +292,13 @@ section {
     list-style-type: none;
     display: flex;
     gap: 20px;
-    overflow-x: auto;
+    overflow: hiden;
     padding: 0;
 }
 
 .categories-images li {
     width: 400px;
     height: 600px;
-    overflow: hidden;
     text-align: left;
 }
 
