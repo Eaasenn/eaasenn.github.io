@@ -292,7 +292,7 @@ section {
     list-style-type: none;
     display: flex;
     gap: 20px;
-    overflow: hiden;
+    overflow-x: hidden;
     padding: 0;
 }
 
